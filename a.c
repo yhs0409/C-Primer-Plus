@@ -6,5 +6,4 @@ int main()
     scanf("%d",&num);
     printf("num=%d\n",num);
     return 0;
-
 }
